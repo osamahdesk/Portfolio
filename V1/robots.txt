@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ryoku-tutor-api.onrender.com/chat
